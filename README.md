@@ -8,11 +8,19 @@
 
 ## 🔬 Sobre Mí & Visión Científica
 
+<p align="right">
+  <a href="https://bivl2ab.uis.edu.co/" target="_blank">
+    <img src="https://bivl2ab.uis.edu.co/_astro/BIVL2ab_Logo.CFYVd2n8.png" alt="Logo BIVL2ab" width="150" style="margin-left: 15px;" />
+  </a>
+  <img src="logosemillero.png" alt="Logo Semillero MACV" width="150" style="margin-left: 15px;" />
+</p>
+
 Soy un apasionado de las Ciencias de la Computación con un propósito claro: tender un puente entre el desarrollo de software y la innovación médica. Mi hoja de ruta académica apunta a una **Maestría y Doctorado en Computer Science**, culminando con un **PhD en Biomedicina**.
 
 - 🎓 Formándome en la **Universidad Industrial de Santander (UIS)**, Colombia.
-- 🧬 **Mi enfoque:** Fusionar la programación, las matemáticas avanzadas (cálculo, convergencia de series) y el diseño algorítmico para resolver problemas de impacto en la salud.
-- 🔭 **Proyectos base:** Actualmente desarrollando una **plataforma LMS** y una **aplicación OMR** (Optical Mark Recognition). Estas bases en procesamiento de imágenes y datos son mi trampolín hacia el análisis de imágenes biomédicas.
+- 👁️‍🗨️ **Investigación:** Miembro activo del semillero **MACV (Machine Learning Analysis and Computer Vision)**, perteneciente al grupo de investigación [**BIVL²ab**](https://bivl2ab.uis.edu.co/). Aquí es donde convergen mis intereses en procesamiento de imágenes, estructuras de datos y algoritmos de aprendizaje automático para el sector salud.
+- 🧬 **Mi enfoque:** Fusionar la programación, las matemáticas avanzadas y el diseño algorítmico para resolver problemas de impacto.
+- 🔭 **Proyectos base:** Actualmente desarrollando una **plataforma LMS** y una **aplicación OMR** (Optical Mark Recognition). Estas bases en procesamiento de imágenes son mi trampolín hacia el análisis de imágenes biomédicas.
 - ⚡ **Otras pasiones:** Diseño avanzado y maquetación académica en LaTeX (creación de clases y plantillas), y modelado 3D.
 
 ---

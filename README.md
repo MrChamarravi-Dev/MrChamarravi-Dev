@@ -1,8 +1,11 @@
 # ¡Hola, soy Diego Fernando Chamarraví Cáceres! 👋
 
 <div align="center">
-  <!-- Círculo con borde verde (Reemplaza "AD117.png" por la ruta de tu foto) -->
-  <img src="AD117.png" alt="Diego Chamarraví" width="200" style="border-radius: 50%; border: 5px solid #1FAE28; margin-top: 15px; margin-bottom: 15px;">
+  <!-- Contenedor circular con borde verde -->
+  <div style="height: 200px; width: 200px; border-radius: 50%; border: 5px solid #1FAE28; overflow: hidden; display: inline-block; margin-top: 15px; margin-bottom: 15px;">
+    <!-- Imagen que se recorta (Reemplaza "AD117.png" por la ruta de tu foto) -->
+    <img src="AD117.png" alt="Diego Chamarraví" style="min-height: 100%; min-width: 100%;">
+  </div>
 </div>
 
 <div align="center">

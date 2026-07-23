@@ -82,7 +82,4 @@
 
 ### 📊 Mis Estadísticas en GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrChamarravi-Dev&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=1FAE28&amp;text_color=ffffff&amp;icon_color=1FAE28" height="150" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrChamarravi-Dev&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=1FAE28&amp;text_color=ffffff" height="150" alt="Lenguajes más usados" />
-</div>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=MrChamarravi-Dev&theme=merko&hide_border=true&border_radius=5&locale=es&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=199" alt="GitHub Streak" /></a>

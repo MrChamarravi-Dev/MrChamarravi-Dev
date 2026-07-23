@@ -82,4 +82,8 @@
 
 ### 📊 Mis Estadísticas en GitHub
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=MrChamarravi-Dev&theme=merko&hide_border=true&border_radius=5&locale=es&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=199" alt="GitHub Streak" /></a>
+<div align="center">
+  <a href="https://git.io/streak-stats" target="_blank">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=MrChamarravi-Dev&amp;theme=merko&amp;hide_border=true&amp;border_radius=5&amp;locale=es&amp;date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  </a>
+</div>

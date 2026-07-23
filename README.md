@@ -11,7 +11,7 @@
 * 🚀 **Desarrollador Web en proceso**. Construyendo bases sólidas en tecnologías modernas, aprendiendo paso a paso a crear interfaces atractivas y sistemas funcionales.
 * 🎯 **Visión a futuro:** Mi objetivo a largo plazo es cursar una maestría y un doctorado para aplicar el poder de las ciencias de la computación al campo de la **Ciencia Biomédica**.
 
-### 🛠️ Mi Stack Tecnológico
+### 🛠️ Mi Stack Tecnológico y Herramientas
 
 #### 💻 Lenguajes
 <p>
@@ -32,13 +32,19 @@
   <a href="https://www.json.org/"><img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON"></a>
 </p>
 
-#### 🎨 Diseño & Herramientas
+#### 🎨 Diseño & Modelado 3D
 <p>
   <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></a>
   <a href="https://www.canva.com/"><img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"></a>
   <a href="https://www.sketchup.com/"><img src="https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white" alt="SketchUp"></a>
   <a href="https://www.blender.org/"><img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"></a>
+</p>
+
+#### 📝 Documentación & Academia (LaTeX)
+<p>
   <a href="https://www.latex-project.org/"><img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"></a>
+  <a href="https://www.texstudio.org/"><img src="https://img.shields.io/badge/TeXstudio-094E7C?style=for-the-badge&logo=latex&logoColor=white" alt="TeXstudio"></a>
+  <a href="https://www.overleaf.com/"><img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white" alt="Overleaf"></a>
 </p>
 
 #### 🔧 Entornos & Plataformas
@@ -49,4 +55,11 @@
   <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&v=1" alt="VS Code IDE"></a>
   <a href="https://netbeans.apache.org/"><img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans&logoColor=white" alt="NetBeans"></a>
   <a href="https://colab.research.google.com/"><img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab"></a>
+</p>
+
+#### 🚀 Software & Utilidades Extras
+<p>
+  <a href="https://brave.com/"><img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=brave&logoColor=white" alt="Brave"></a>
+  <a href="https://discord.com/"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://steamcommunity.com/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"></a>
 </p>

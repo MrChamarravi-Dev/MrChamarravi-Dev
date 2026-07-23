@@ -53,7 +53,6 @@ Mi visión a largo plazo es realizar una maestría y un doctorado en Ciencias de
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MrChamarravi-Dev&show_icons=true&theme=radium&hide_border=true" alt="Estadísticas de GitHub" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrChamarravi-Dev&theme=radium&hide_border=true" alt="Racha de GitHub" width="48%" />
 </div>
 
 *(Nota: Recuerda cambiar `TU_USUARIO_DE_GITHUB` por tu usuario real).*

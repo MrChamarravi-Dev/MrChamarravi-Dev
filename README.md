@@ -1,31 +1,45 @@
-# ¡Hola, soy Diego Fernando Chamarraví Cáceres! 👋
+# ¡Hola, soy Diego Fernando Chamarraví Cáceres! 👋 <img src="https://media.giphy.com/media/mGcnhxNcANYmOcgZ5c/giphy.gif" width="35">
 
 <div align="center">
-  <!-- Círculo con borde verde (Reemplaza "AD117.png" por la ruta de tu foto) -->
-  <img src="AD117.png" alt="Diego Chamarraví" width="200" style="border-radius: 50%; border: 5px solid #1FAE28; margin-top: 15px; margin-bottom: 15px;">
+  <!-- Círculo con borde verde -->
+  <img src="AD117.png" alt="Diego Chamarraví" width="180" style="border-radius: 50%; border: 4px solid #1FAE28; margin-top: 15px; margin-bottom: 25px; box-shadow: 0px 4px 10px rgba(0,0,0,0.3);">
 </div>
 
 <div align="center">
   <!-- Texto animado en verde -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=1FAE28&center=true&vCenter=true&width=800&lines=Estudiante+de+Ingeniería+de+Sistemas;Universidad+Industrial+de+Santander;Desarrollador+Web+en+formación;Investigador+Junior+-+M_LACV+(BIVL2ab);Apasionado+por+aprender+nuevas+tecnologías" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=1FAE28&center=true&vCenter=true&width=850&lines=Estudiante+de+Ingeniería+de+Sistemas;Universidad+Industrial+de+Santander;Desarrollador+Web+Full-Stack+en+formación;Investigador+Junior+-+M_LACV+(BIVL2ab);Apasionado+por+aprender+nuevas+tecnologías" alt="Typing SVG" />
 </div>
 
-<hr> <!-- Línea divisoria -->
+<br>
 
 <!-- Insignias de contacto centradas -->
 <p align="center">
-  <a href="https://github.com/MrChamarravi-Dev"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://gitlab.com/MrChamarravi-Dev"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"></a>
-  <a href="https://www.linkedin.com/in/diego-fernando-chamarrav%C3%AD-c%C3%A1ceres-0b5a64213/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:diegochamarravi@gmail.com"><img src="https://img.shields.io/badge/Email_Personal-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Personal"></a>
+  <a href="https://github.com/MrChamarravi-Dev"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" target="_blank"></a>
+  <a href="https://gitlab.com/MrChamarravi-Dev"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/diego-fernando-chamarrav%C3%AD-c%C3%A1ceres-0b5a64213/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank"></a>
+  <a href="mailto:diegochamarravi@gmail.com"><img src="https://img.shields.io/badge/Email_Personal-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Personal" target="_blank"></a>
 </p>
+
+---
 
 ### 👨‍💻 Un poco sobre mí
 
 *   🎓 **Estudiante de Ingeniería de Sistemas** en la **Universidad Industrial de Santander (UIS)**.
 *   🔬 **Investigador Junior** en el semillero **M<sub>L</sub>ACV** (Machine Learning Analysis and Computer Vision), del grupo **BIVL<sup>2</sup>ab**.
-*   🚀 **Desarrollador Web en proceso**. Construyendo bases sólidas en tecnologías modernas, aprendiendo paso a paso a crear interfaces atractivas y sistemas funcionales.
+*   🚀 **Desarrollador Web en proceso**. Construyendo bases sólidas en tecnologías modernas, aprendiendo paso a paso a crear interfaces atractivas y sistemas funcionales (con un interés especial en UI/UX y Glassmorphism).
 *   🎯 **Visión a futuro:** Mi objetivo a largo plazo es cursar una maestría y un doctorado para aplicar el poder de las ciencias de la computación al campo de la **Ciencia Biomédica**.
+*   🎲 **Intereses extra:** Apasionado por las matemáticas aplicadas, la simulación y el modelado 3D de entornos.
+
+---
+
+### 🚀 En lo que estoy trabajando
+
+Actualmente estoy enfocando mis esfuerzos en desarrollar soluciones interactivas y sistemas escalables:
+
+*   💻 Desarrollando un **LMS (Learning Management System)** modular y personalizado, diseñado específicamente para la preparación del examen ICFES Saber 11, incluyendo simulaciones y hojas de respuestas digitales.
+*   🌐 Construyendo **La 45 Style**, una aplicación web enfocada en componentes de registro seguros, responsivos y con integración a plataformas de terceros.
+
+---
 
 ### 🛠️ Mi Stack Tecnológico y Herramientas
 
@@ -73,9 +87,11 @@
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab">
 </p>
 
-#### 🚀 Software & Utilidades Extras
-<p>
-  <img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=brave&logoColor=white" alt="Brave">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
-</p>
+---
+
+### 📊 Mis Estadísticas en GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MrChamarravi-Dev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=1FAE28&text_color=ffffff" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrChamarravi-Dev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=1FAE28&text_color=ffffff" height="150" alt="Top Languages" />
+</div>

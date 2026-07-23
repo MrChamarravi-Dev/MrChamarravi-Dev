@@ -29,16 +29,7 @@
 *   🚀 **Desarrollador Web en proceso**. Construyendo bases sólidas en tecnologías modernas, aprendiendo paso a paso a crear interfaces atractivas y sistemas funcionales (con un interés especial en UI/UX y Glassmorphism).
 *   🎯 **Visión a futuro:** Mi objetivo a largo plazo es cursar una maestría y un doctorado para aplicar el poder de las ciencias de la computación al campo de la **Ciencia Biomédica**.
 *   🎲 **Intereses extra:** Apasionado por las matemáticas aplicadas, la simulación y el modelado 3D de entornos.
-
----
-
-### 🚀 En lo que estoy trabajando
-
-Actualmente estoy enfocando mis esfuerzos en desarrollar soluciones interactivas y sistemas escalables:
-
-*   💻 Desarrollando un **LMS (Learning Management System)** modular y personalizado, diseñado específicamente para la preparación del examen ICFES Saber 11, incluyendo simulaciones y hojas de respuestas digitales.
-*   🌐 Construyendo **La 45 Style**, una aplicación web enfocada en componentes de registro seguros, responsivos y con integración a plataformas de terceros.
-
+  
 ---
 
 ### 🛠️ Mi Stack Tecnológico y Herramientas

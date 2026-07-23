@@ -1,8 +1,29 @@
+# ¡Hola, soy Diego Fernando Chamarraví Cáceres! 👋
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=1FAE28&center=true&vCenter=true&width=800&lines=Estudiante+de+Ingeniería+de+Sistemas;Universidad+Industrial+de+Santander;Desarrollador+Web+en+proceso;Investigador+Junior+-+MLACV+(BIVL2ab);Apasionado+por+aprender+nuevas+tecnologías" alt="Typing SVG" />
+  <!-- ANIMACIÓN DE BIENVENIDA -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=1FAE28&center=true&vCenter=true&width=800&lines=Estudiante+de+Ingeniería+de+Sistemas;Universidad+Industrial+de+Santander;Desarrollador+Web+en+formación;Investigador+Junior+-+MLACV+(BIVL2ab);Apasionado+por+aprender+nuevas+tecnologías" alt="Typing SVG" />
+
+  <br><br>
+
+  <!-- TU FOTO CON BUEN MARCO -->
+  <!-- Reemplaza la URL de abajo por la ruta de tu imagen -->
+  <img src="RUTA_A_TU_FOTO_ENMARCADA.png" alt="Foto de Diego Chamarraví" width="220" style="max-width: 100%;">
+
 </div>
 
----
+<hr> <!-- Línea divisoria opcional para separar -->
+
+<p align="center">
+
+  <a href = "https://git-scm.com/">
+  <img src = "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt = "Git>
+  </a>
+  
+  <a href="https://github.com/MrChamarravi-Dev">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+---  
 
 ### 👨‍💻 Un poco sobre mí
 

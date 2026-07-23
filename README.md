@@ -83,6 +83,6 @@
 ### 📊 Mis Estadísticas en GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrChamarravi-Dev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=1FAE28&text_color=ffffff" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrChamarravi-Dev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=1FAE28&text_color=ffffff" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MrChamarravi-Dev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=1FAE28&text_color=ffffff&icon_color=1FAE28" height="150" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrChamarravi-Dev&layout=compact&hide_border=true&bg_color=0D1117&title_color=1FAE28&text_color=ffffff" height="150" alt="Lenguajes más usados" />
 </div>

@@ -6,8 +6,6 @@
 
   <br><br>
 
-  <!-- TU FOTO CON BUEN MARCO -->
-  <!-- Reemplaza la URL de abajo por la ruta de tu imagen -->
   <img src="RUTA_A_TU_FOTO_ENMARCADA.png" alt="Foto de Diego Chamarraví" width="220" style="max-width: 100%;">
 
 </div>

@@ -1,7 +1,7 @@
 # ¡Hola, soy Diego Fernando Chamarraví Cáceres! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Estudiante+de+Ingeniería+de+Sistemas+-+UIS;Desarrollador+Web+en+formación;Investigador+Junior;Apasionado+por+aprender+nuevas+tecnologías" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=007ACC&center=true&vCenter=true&width=800&lines=Estudiante+de+Ingeniería+de+Sistemas;Universidad+Industrial+de+Santander;Desarrollador+Web+en+formación;Investigador+Junior+-+MACV+(BIVL2ab);Apasionado+por+aprender+nuevas+tecnologías" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -33,7 +33,19 @@
   <a href="https://netbeans.apache.org/">
   <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans&logoColor=white" alt="NetBeans">
   </a>
-  
+
+  <a href="https://www.texstudio.org/">
+  <img src="https://img.shields.io/badge/TeXstudio-094E7C?style=for-the-badge&logo=latex&logoColor=white" alt="TeXstudio">
+  </a>
+
+<a href="https://www.overleaf.com/">
+  <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white" alt="Overleaf">
+</a>
+
+<a href="https://colab.research.google.com/">
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab">
+</a>
+
   <a href="https://www.canva.com/">
     <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
   </a>
@@ -54,7 +66,11 @@
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   </a>
-  
+
+  <a href="https://isocpp.org/">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+</a>
+
   <!-- JavaScript -->
   <a href="https://developer.mozilla.org/es/docs/Web/JavaScript">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
@@ -75,5 +91,49 @@
     <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON">
   </a>
 
+  <!-- Firebase -->
+<a href="https://firebase.google.com/">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+</a>
+
+<!-- Node.js -->
+<a href="https://nodejs.org/">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+</a>
+
+  <!-- Brave -->
+  <a href="https://brave.com/">
+    <img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=brave&logoColor=white" alt="Brave">
+  </a>
+  
+  <!-- Discord -->
+  <a href="https://discord.com/">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+
+<!-- Blender -->
+<a href="https://www.blender.org/">
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender">
+</a>
+
+<!-- SketchUp -->
+<a href="https://www.sketchup.com/">
+  <img src="https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white" alt="SketchUp">
+</a>
+
+<!-- Steam -->
+<a href="https://steamcommunity.com/">
+  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
+</a>
+
+<!-- MySQL -->
+<a href="https://www.mysql.com/">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+</a>
+
+<!-- PostgreSQL -->
+<a href="https://www.postgresql.org/">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+</a>
   
 </p>

@@ -1,4 +1,4 @@
-# ¡Hola, soy Diego Fernando Chamarraví Cáceres! 👋
+<img width="2334" height="2585" alt="AVER1" src="https://github.com/user-attachments/assets/4d01e5e5-23d3-4a4f-bb1b-948151bf1cec" /># ¡Hola, soy Diego Fernando Chamarraví Cáceres! 👋
 
 <div align="center">
   <!-- ANIMACIÓN DE BIENVENIDA -->
@@ -6,7 +6,7 @@
 
   <br><br>
 
-  <img src="D117.png" alt="Foto de Diego Chamarraví" width="220" style="max-width: 100%;">
+  <img src="AD117.png" alt="Foto de Diego Chamarraví" width="220" style="max-width: 100%;">
 
 </div>
 

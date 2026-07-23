@@ -4,9 +4,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aprendiendo%20y%20Creando%20con%20Código&fontSize=30&animation=fadeIn" alt="Header" />
 </div>
 
-**Estudiante de Ciencias de la Computación | Desarrollador Web en formación | Investigador**
+**Estudiante de Ingeniería de Sistemas | Desarrollador Web en formación | Investigador Junior**
 
-Actualmente estudio Ciencias de la Computación en la **Universidad Industrial de Santander**. Me apasiona el mundo del desarrollo web, las matemáticas avanzadas y aprender nuevas tecnologías a mi propio ritmo. Formo parte del semillero de investigación **MACV** (Machine Learning Analysis and Computer Vision) del grupo **BIVL²ab**. 
+Actualmente estudio Ingeniería de Sistemas en la **Universidad Industrial de Santander**. Me apasiona el mundo del desarrollo web y aprender nuevas tecnologías a mi propio ritmo. Formo parte del semillero de investigación **MACV** (Machine Learning Analysis and Computer Vision) del grupo **BIVL²ab**. 
 
 Mi visión a largo plazo es realizar una maestría y un doctorado en Ciencias de la Computación, enfocándome en aplicar estas tecnologías en el campo de las Ciencias Biomédicas.
 

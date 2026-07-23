@@ -6,7 +6,7 @@
 
   <br><br>
 
-  <img src="RUTA_A_TU_FOTO_ENMARCADA.png" alt="Foto de Diego Chamarraví" width="220" style="max-width: 100%;">
+  <img src="D117.png" alt="Foto de Diego Chamarraví" width="220" style="max-width: 100%;">
 
 </div>
 

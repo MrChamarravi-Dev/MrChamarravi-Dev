@@ -7,7 +7,7 @@
 
 <div align="center">
   <!-- Texto animado en verde -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=1FAE28&center=true&vCenter=true&width=850&lines=Estudiante+de+Ingeniería+de+Sistemas;Universidad+Industrial+de+Santander;Desarrollador+Web+Full-Stack+en+formación;Investigador+Junior+-+M_LACV+(BIVL2ab);Apasionado+por+aprender+nuevas+tecnologías" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=1FAE28&center=true&vCenter=true&width=850&lines=Estudiante+de+Ingeniería+de+Sistemas;Universidad+Industrial+de+Santander;Desarrollador+Web+Full-Stack+en+formación;Investigador+Junior+-+MLACV+(BIVL2ab);Apasionado+por+aprender+nuevas+tecnologías" alt="Typing SVG" />
 </div>
 
 <br>

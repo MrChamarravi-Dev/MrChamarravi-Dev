@@ -1,90 +1,33 @@
-# ¡Hola, soy Diego Fernando Chamarraví Cáceres! 👋 <img src="https://media.giphy.com/media/mGcnhxNcANYmOcgZ5c/giphy.gif" width="35">
-
-<div align="center">
-  <!-- Círculo con borde verde -->
-  <img src="AD117.png" alt="Diego Chamarraví" width="180" style="border-radius: 50%; border: 4px solid #1FAE28; margin-top: 15px; margin-bottom: 25px; box-shadow: 0px 4px 10px rgba(0,0,0,0.3);">
-</div>
-
-<div align="center">
-  <!-- Texto animado en verde -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=1FAE28&center=true&vCenter=true&width=850&lines=Estudiante+de+Ingeniería+de+Sistemas;Universidad+Industrial+de+Santander;Desarrollador+Web+Full-Stack+en+formación;Investigador+Junior+-+MLACV+(BIVL2ab);Apasionado+por+aprender+nuevas+tecnologías" alt="Typing SVG" />
-</div>
-
-<br>
-
-<!-- Insignias de contacto centradas -->
 <p align="center">
-  <a href="https://github.com/MrChamarravi-Dev"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" target="_blank"></a>
-  <a href="https://gitlab.com/MrChamarravi-Dev"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/diego-fernando-chamarrav%C3%AD-c%C3%A1ceres-0b5a64213/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank"></a>
-  <a href="mailto:diegochamarravi@gmail.com"><img src="https://img.shields.io/badge/Email_Personal-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Personal" target="_blank"></a>
+  <img src="https://www.gitskins.com/api/section/hero?username=mrchamarravi-dev&theme=github-dark" alt="Diego Fernando Chamarraví Cáceres profile hero" />
 </p>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/about?username=mrchamarravi-dev&theme=github-dark" alt="About Diego Fernando Chamarraví Cáceres" />
+</p>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=mrchamarravi-dev&theme=github-dark" alt="Language stack" />
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=mrchamarravi-dev&theme=github-dark" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=mrchamarravi-dev&theme=github-dark" alt="mrchamarravi-dev featured projects" />
+</p>
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=mrchamarravi-dev&theme=github-dark" alt="mrchamarravi-dev social links" />
+</p>
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrchamarravi-dev)
 
 ---
 
-### 👨‍💻 Un poco sobre mí
-
-*   🎓 **Estudiante de Ingeniería de Sistemas** en la **Universidad Industrial de Santander (UIS)**.
-*   🔬 **Investigador Junior** en el semillero **M<sub>L</sub>ACV** (Machine Learning Analysis and Computer Vision), del grupo **BIVL<sup>2</sup>ab**.
-*   🚀 **Desarrollador Web en proceso**. Construyendo bases sólidas en tecnologías modernas, aprendiendo paso a paso a crear interfaces atractivas y sistemas funcionales (con un interés especial en UI/UX y Glassmorphism).
-*   🎯 **Visión a futuro:** Mi objetivo a largo plazo es cursar una maestría y un doctorado para aplicar el poder de las ciencias de la computación al campo de la **Ciencia Biomédica**.
-*   🎲 **Intereses extra:** Apasionado por las matemáticas aplicadas, la simulación y el modelado 3D de entornos.
-  
----
-
-### 🛠️ Mi Stack Tecnológico y Herramientas
-
-#### 💻 Lenguajes
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON">
-</p>
-
-#### 🌐 Web, Bases de Datos & Backend
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/DBeaver-1A73E8?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver">
-</p>
-
-#### 🎨 Diseño & Modelado 3D
-<p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva">
-  <img src="https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white" alt="SketchUp">
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender">
-</p>
-
-#### 📝 Documentación & Academia (LaTeX)
-<p>
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX">
-  <img src="https://img.shields.io/badge/TeXstudio-094E7C?style=for-the-badge&logo=latex&logoColor=white" alt="TeXstudio">
-  <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white" alt="Overleaf">
-</p>
-
-#### 🔧 Entornos & Plataformas
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans&logoColor=white" alt="NetBeans">
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab">
-</p>
-
----
-
-### 📊 Mis Estadísticas en GitHub
-
-<div align="center">
-  <a href="https://git.io/streak-stats" target="_blank">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=MrChamarravi-Dev&amp;theme=merko&amp;hide_border=true&amp;border_radius=5&amp;locale=es&amp;date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-  </a>
-</div>
+<p align="center">Profile README generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></p>

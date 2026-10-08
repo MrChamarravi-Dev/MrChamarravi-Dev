@@ -24,7 +24,7 @@
 
 ### 👨‍💻 Un poco sobre mí
 
-*   🎓 **Estudiante de Ingeniería de Sistemas** en la **Universidad Industrial de Santander (UIS)**.
+*   🎓 **Estudiante de Ingeniería de Sistemas** en la **Universidad Industrial de Santander (UIS)** **Bucaramanga - Santander Colombia**.
 *   🔬 **Investigador Junior** en el semillero **M<sub>L</sub>ACV** (Machine Learning Analysis and Computer Vision), del grupo **BIVL<sup>2</sup>ab**.
 *   🚀 **Desarrollador Web en proceso**. Construyendo bases sólidas en tecnologías modernas, aprendiendo paso a paso a crear interfaces atractivas y sistemas funcionales (con un interés especial en UI/UX y Glassmorphism).
 *   🎯 **Visión a futuro:** Mi objetivo a largo plazo es cursar una maestría y un doctorado para aplicar el poder de las ciencias de la computación al campo de la **Ciencia Biomédica**.
